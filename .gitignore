@@ -1,0 +1,18 @@
+#*
+# only allow scource files
+#!HAL/**
+#!LEARN_HERE/**
+#!Testing/**
+#!Examples/**
+#!.gitignore
+#!HalColorSchemes.jar
+#!manual.pdf
+#!FrameworkPresentation.pdf
+.DS_Store
+
+# JetBrains folder
+.idea
+
+# output folder
+out
+
